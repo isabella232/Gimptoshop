@@ -1,0 +1,7 @@
+# GIMP action-history
+
+(history-item "dockable-close-tab" 1)
+(history-item "dialogs-preferences" 1)
+(history-item "dialogs-undo-history" 1)
+
+# end of action-history
